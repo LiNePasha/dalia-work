@@ -173,12 +173,6 @@
     body.clinic_version .how-its-work .hc {
         width: 100% !important;
     }
-    .address-item h3{
-        font-size: 11px;
-    }
-    .address-item p{
-        font-size: 10px;
-    }
 }
 
 @media (max-width: 1000px) {

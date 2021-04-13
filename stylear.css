@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
+body {
+  font-family: 'Tajawal';
+}
+.float-left {
+  float: right!important
+}
+.float-right {
+  float: left!important
+}
+#topbar .social-links {
+  text-align: left;
+}
+.main-nav > ul > li{
+  float: right;
+}
+.main-nav a {
+  font-family: "Tajawal" ;
+  font-size: 15px;
+}
+#intro {
+  direction: rtl;
+}
+.noover {
+  direction: rtl;
+}
+@media (max-width: 570px) {
+  #header .logo img{
+    margin: -79px 80px;
+  }
+}
+#team .team-list>ul>li.active::after{
+  left: 22px;
+}
+#team {
+  direction: rtl;
+}
+.sn-content h1,.sn-content h4{
+  text-align: right;
+  font-family: 'Tajawal';
+}
+.sn-content h4 {
+  font-size: 2rem;
+}
+.footer {
+  direction: rtl;
+}
+.single-news {
+  direction: rtl;
+}
+.login {
+  direction: rtl;
+}
+.form-group {
+  text-align: right;
+}
+.dmtop{
+  left: 20px;
+}
+.portfolio-filter {
+  direction: rtl;
+}
+.widget{
+  text-align: right;
+}
+.testimonial .alignleft{
+  float: right;
+    margin: 10px 0 20px 20px;
+}
+.testimonial h4 {
+  text-align: right;
+}
+.testimonial .desc {
+  text-align: right;
+}
+.service-dit{
+  text-align: right;
+}
+.sidebar .sidebar-widget h2.sw-title{
+  text-align: right;
+}
+.sidebar .category ul {
+  text-align: right;
+}
+.sidebar .category ul li span {
+  float: left;
+}
+.da-thumbs .pitem a div h3{
+  text-align: right;
+}
+.contact_form .form-control{
+  text-align: right;
+}
+#contactform div:last-of-type{
+  float: right;
+}
+.bootstrap-select.btn-group .dropdown-toggle .filter-option{
+  text-align: right;
+}
+.bootstrap-select.btn-group .dropdown-toggle .fa-angle-down{
+  right: 100%;
+}
+.bootstrap-select.btn-group .dropdown-menu li{
+  text-align: right;
+}
+.address-item{
+  text-align: right;
+}
+.login-form form{
+  text-align: right;
+}
+.customwidget {
+  text-align: right !important;
+}
+.experience {
+  direction: rtl;
+}
+#audiobuttons {
+  direction: ltr;
+}
+.talents{
+  direction: rtl;
+}
+.feature{
+  direction: rtl;
+}
+.single{
+  direction: rtl;
+  text-align: right;
+}
+.banner{
+  text-align: right;
+  direction: rtl;
+}
+.banner h2::after{
+  right: -15px;
+}
+.feature .section-header{
+  text-align: right;
+}
+.feature .section-header + p {
+  text-align: right;
+}
+.feature .feature-item h3{
+  margin-top: 1rem;
+}

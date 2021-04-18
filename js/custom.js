@@ -30,7 +30,6 @@
 			}, 700);
 		});
 	}
-
         // Header scroll class
         $(window).scroll(function() {
             if ($(this).scrollTop() > 50) {
